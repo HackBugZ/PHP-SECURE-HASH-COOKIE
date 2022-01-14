@@ -1,5 +1,5 @@
 # Secure-Hash-Cookie
-Secure Hash Cookie | HackBugZ PHP
+Secure Hash Cookie 69 | HackBugZ PHP
 
 PHP COOKIE-HASH HACK
 
